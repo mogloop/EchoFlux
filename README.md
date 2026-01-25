@@ -1,1 +1,1 @@
-Game has been renamed to AnonBlox.
+EchoFlux is currently in a WIP state.
