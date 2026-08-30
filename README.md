@@ -1,6 +1,6 @@
 Game under comstruction! ThePrototype is a proof of concept build.
 
-Download ThePrototype build then try the build. (Put the "Torque" folder under the root of your C:\ drive so it would work.)
+Download ThePrototype build then try the build. (Put the 'Torque' folder under the root of your C:\ drive so it would work.)
 
 (Warning! Online is experimental so it might not work.)
 
